@@ -1,3 +1,8 @@
 h1{
-    color: red;
+    color: rgb(0, 225, 255);
+}
+
+p{
+    color: greenyellow;
+    margin: auto;
 }
